@@ -7,7 +7,7 @@ Projeto independente desenvolvido em python com intuito de aprender mais eventos
 
 #### <strong>Status: </strong>Concluído ✔️
 
-(todolistjavascriptimagem.png)
+![ImagemProjeto](todolistjavascriptimagem.png)
 
 # Tecnologias utilizadas 💻
 
