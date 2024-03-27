@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Rodrigo Cotrin">
+    <meta name="description" content="Lista de Afazeres">
+    <meta name="keywords" content="todolist">
+    <title>Lista de Afazeres</title>
+    <link rel="icon" href="/assets/pageicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+    <main>
+        <section class="todo-app">
+            <h2>Lista de Afazeres <img src="./assets/icon.png"></h2>
+
+            <section class="row">
+                <input type="text" id="input-box" placeholder="Adicione seu texto">
+                <button onclick="addTask()">Adicionar</button>
+            </section>
+            <ul id="list-main" onclick="taskClick()">
+                <!-- <li class="checked">Tarefa 1</li>
+                <li>Tarefa 2</li>
+                <li>Tarefa 3</li> -->
+            </ul>
+        </section>
+        <footer>
+            <p>Desenvolvido com muito <img src="./assets/heart.png" alt="Ícone de coração"> por</p><a href="https://www.linkedin.com/in/rodrigocotrin/" target="_blank"><span> Rodrigo Cotrin</span></a>
+          </footer>
+    </main>
+    <script src="/js/index.js"></script>
+</body>
+</html>
