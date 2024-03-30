@@ -5,6 +5,8 @@
 
 Projeto independente desenvolvido em python com intuito de aprender mais eventos no javascript
 
+https://listadeafazerescotrin.vercel.app
+
 #### <strong>Status: </strong>Concluído ✔️
 
 ![ImagemProjeto](todolistjavascriptimagem.png)
