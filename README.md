@@ -5,14 +5,10 @@
 
 Projeto independente desenvolvido em python com intuito de aprender mais eventos no javascript
 
-<a href="https://listadeafazerescotrin.vercel.app" id="link">Abrir em nova janela</a>
+<a href="https://listadeafazerescotrin.vercel.app" target="_blank">Abrir em nova janela</a>
 
-<script>
-document.getElementById('link').addEventListener('click', function(event) {
-    event.preventDefault(); // Evita que o link seja aberto normalmente
-    window.open(this.href, '_blank'); // Abre o link em uma nova janela
-});
-</script>
+
+
 
 
 #### <strong>Status: </strong>Concluído ✔️
