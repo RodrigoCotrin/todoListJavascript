@@ -5,7 +5,7 @@
 
 Projeto independente desenvolvido em python com intuito de aprender mais eventos no javascript
 
-<a href="https://listadeafazerescotrin.vercel.app" target="_blank">Link</a>
+<a href="https://listadeafazerescotrin.vercel.app" target="_blank">Link do projeto</a>
 
 
 
