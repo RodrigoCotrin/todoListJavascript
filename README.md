@@ -3,7 +3,7 @@
 ## Sobre esse projeto 💡
 
 
-Projeto independente desenvolvido em Javascript com intuito de aprender mais eventos e funções
+Projeto independente desenvolvido em Javascript com intuito de aprender mais sobre eventos e funções
 
 <a href="https://listadeafazerescotrin.vercel.app" target="_blank">Link do projeto</a>
 
